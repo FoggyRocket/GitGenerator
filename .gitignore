@@ -1,0 +1,8 @@
+/node_modules
+/project
+/PP
+/DE
+yarn-error.log
+.DS_Store
+package-lock.json
+yarn.lock
